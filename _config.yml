@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/Mr-lay/lay_blog.git  #你的仓库地址
-  branch: main
+  repository: https://github.com/Mr-lay/Mr-lay.github.io.git  #你的仓库地址
+  branch: master
